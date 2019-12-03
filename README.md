@@ -1,6 +1,6 @@
 # Employee Directory
 
-![employee_directory] (employee_directory.gif)
+![Employee Directory] (employee_directory.gif)
 
 
 
