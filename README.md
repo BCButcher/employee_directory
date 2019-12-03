@@ -1,6 +1,7 @@
 # Employee Directory
+Emplyee Directory (Homework)
 
-![Employee Directory] (employee_directory.gif)
+![Employee Directory](employee_directory.gif)
 
 
 
